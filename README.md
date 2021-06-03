@@ -22,24 +22,24 @@ I want to be an interesting person and enjoy my life.
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/java.svg"></code>
 
-<code><img height="20" src="images/mysql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/mysql.svg"></code>
 
-<code><img height="20" src="images/mybatis.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/mybatis.svg"></code>
 
-<code><img height="20" src="images/spring.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/spring.svg"></code>
 
-<code><img height="20" src="images/springcloud.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/springcloud.svg"></code>
 
-<code><img height="20" src="images/SPRINGMVC.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/SPRINGMVC.svg"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/git.svg"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/vscode.svg"></code>
 
 #### Interested
-<code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/ae.svg"></code>
 
-<code><img height="20" src="images/VR.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/VR.svg"></code>
 
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
