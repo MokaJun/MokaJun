@@ -20,7 +20,7 @@ I want to be an interesting person and enjoy my life.
 
 #### Languages and Frameworks
 
-<code><img height="20" src="images/java.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/MokaJun/MokaJun/images/java.svg"></code>
 
 <code><img height="20" src="images/mysql.svg"></code>
 
